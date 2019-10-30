@@ -3,6 +3,7 @@ import jdk.nashorn.tools.Shell;
 import java.lang.reflect.Array;
 import java.util.Arrays;
 
+
 public class Bubble {
 
     public static void main(String[] args) {
@@ -26,11 +27,5 @@ public class Bubble {
         }
     }
 
-    public String hello(String a){
-       return "hahah";
-    }
 
-    public String hello1(String a){
-        return "hahah";
-    }
 }
